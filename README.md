@@ -14,8 +14,8 @@
 <!-- SOCIAL LINKS & STATS -->
 <p align="center">
   <a href="mailto:prince4praneet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/🌐-My Portfolio-0e76a8?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/p-praneet/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
   <img src="https://komarev.com/ghpvc/?username=praneetpooojary&style=for-the-badge&color=brightgreen"/>
 </p>
 
@@ -60,13 +60,6 @@
 📌 **Farmers' Website** – *HTML, CSS, JS*  
 📌 **Event Management System** – *HTML, CSS*
 
----
-
-## 🏆 Achievements
-
-🎖️ **MHT-CET (2023)** – 98.07 percentile (AIR 4985, HR 1600/180,000+)  
-💡 **Intra-college Java ATM project award**  
-🧠 Built multiple full-stack apps solo
 
 ---
 
@@ -87,20 +80,14 @@
 
 ---
 
-## 🐍 Contribution Graph Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nothingmatters4/nothingmatters4/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 📫 Let's Connect!
 
 I'm always open to cool collaborations, freelance opportunities, and brainstorming over tech ☕
 
 📧 Email: **prince4praneet@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+🔗 LinkedIn: **https://www.linkedin.com/in/p-praneet/**
 
 ---
 
